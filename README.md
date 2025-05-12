@@ -30,9 +30,8 @@ Play around with your slideshow!
 ## Features
 
 ### 🖱️ Interactive Dropdown Menu
-- Reusable dropdown component designed by myself
 - Click-to-toggle functionality
-- Neon cyberpunk styling
+- Reusable dropdown component designed by myself
 - Published as [npm package](https://www.npmjs.com/package/@khobie-maseko/dropdown-package)
 
 ### 🖼️ Image Carousel
