@@ -61,3 +61,45 @@ Play around with your slideshow!
 ```bash
 git clone https://github.com/khobie-maseko/dynamic-ui-interactions.git
 cd dynamic-ui-interactions
+```
+
+OR
+
+2. Install from npm:
+```bash
+npm install @khobie-maseko/dropdown-package
+```
+
+## Usage
+
+Run linter:
+```bash
+npm run lint
+```
+
+Format code:
+```bash
+npm run format
+```
+
+Start live server (if configured):
+```bash
+npm start
+```
+
+Implementation:
+```bash
+import { initDropdowns } from '@khobie-maseko/dropdown-package';
+initDropdowns();
+```
+
+
+Image Credits:
+
+All images courtesy of James Bat Barrera on Pexels:
+
+    Background: Tokyo Street at Night
+
+    Carousel: Cyberpunk Samurai with Neon Sword series
+
+
