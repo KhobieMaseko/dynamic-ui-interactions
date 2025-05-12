@@ -96,10 +96,11 @@ initDropdowns();
 
 Image Credits:
 
-All images courtesy of James Bat Barrera on Pexels:
+All images courtesy of James Bat Barrera on Pexels: [https://www.pexels.com/@james-bat-barrera-754630875/]
 
-    Background: Tokyo Street at Night
 
-    Carousel: Cyberpunk Samurai with Neon Sword series
+
+
+
 
 
