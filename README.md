@@ -96,7 +96,7 @@ initDropdowns();
 
 Image Credits:
 
-All images courtesy of James Bat Barrera on Pexels: [https://www.pexels.com/@james-bat-barrera-754630875/]
+All images courtesy of James Bat Barrera on Pexels: https://www.pexels.com/@james-bat-barrera-754630875/
 
 
 
