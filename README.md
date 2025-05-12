@@ -100,6 +100,7 @@ All images courtesy of James Bat Barrera on Pexels: https://www.pexels.com/@jame
 
 
 
+![dynamic ui ](https://github.com/user-attachments/assets/6df4f244-aeec-4b59-a95c-4e16dae204a7)
 
 
 
